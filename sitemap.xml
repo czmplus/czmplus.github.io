@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://www.fomal.cc/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/box/gallery/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/social/fcircle/index.html</loc>
+    <loc>https://www.fomal.cc/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -93,15 +93,6 @@
   
   <url>
     <loc>https://www.fomal.cc/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/social/link/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/about/index.html</loc>
+    <loc>https://www.fomal.cc/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -146,7 +137,16 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/site/census/index.html</loc>
+    <loc>https://www.fomal.cc/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/social/link/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     

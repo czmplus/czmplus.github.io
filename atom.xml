@@ -3,11 +3,11 @@
   <title>czmplus🥝</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://czmplus.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
+  <link href="https://czmplus.github.io/"/>
   <updated>2024-09-02T08:54:40.828Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <id>https://czmplus.github.io/</id>
   
   <author>
     <name>czm🥝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Docker笔记一</title>
-    <link href="https://www.fomal.cc/posts/8bd452cf.html"/>
-    <id>https://www.fomal.cc/posts/8bd452cf.html</id>
+    <link href="https://czmplus.github.io/posts/8bd452cf.html"/>
+    <id>https://czmplus.github.io/posts/8bd452cf.html</id>
     <published>2024-09-02T07:05:50.000Z</published>
     <updated>2024-09-02T08:54:40.828Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="Docker" scheme="https://www.fomal.cc/categories/Docker/"/>
+    <category term="Docker" scheme="https://czmplus.github.io/categories/Docker/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://czmplus.github.io/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://czmplus.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>MySQL</title>
-    <link href="https://www.fomal.cc/posts/f007732d.html"/>
-    <id>https://www.fomal.cc/posts/f007732d.html</id>
+    <link href="https://czmplus.github.io/posts/f007732d.html"/>
+    <id>https://czmplus.github.io/posts/f007732d.html</id>
     <published>2024-08-31T07:14:31.000Z</published>
     <updated>2024-09-02T08:55:50.783Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://czmplus.github.io/posts/2013454d.html"/>
+    <id>https://czmplus.github.io/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -70,12 +70,12 @@
     
     
     
-    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://czmplus.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://czmplus.github.io/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://czmplus.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   

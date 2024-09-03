@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://czmplus.github.io/posts/f007732d.html</loc>
+    <loc>https://czmplus.github.io/posts/af4eacf0.html</loc>
     
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://czmplus.github.io/posts/8bd452cf.html</loc>
+    
+    <lastmod>2024-09-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/posts/f007732d.html</loc>
     
     <lastmod>2024-09-02</lastmod>
     
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://czmplus.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -74,25 +74,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/life/games/index.html</loc>
+    <loc>https://czmplus.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -119,7 +101,43 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/life/music/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/site/census/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -146,16 +164,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/site/time/index.html</loc>
+    <loc>https://czmplus.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -184,7 +193,7 @@
 
   <url>
     <loc>https://czmplus.github.io/</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,14 +201,21 @@
   
   <url>
     <loc>https://czmplus.github.io/tags/Markdown/</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://czmplus.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/tags/go/</loc>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -208,14 +224,14 @@
   
   <url>
     <loc>https://czmplus.github.io/categories/Docker/</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://czmplus.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/posts/f89fc16a.html</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/posts/202c1d48.html</loc>
     
     <lastmod>2024-09-05</lastmod>
@@ -74,6 +83,15 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -101,34 +119,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://czmplus.github.io/life/games/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/social/link/index.html</loc>
+    <loc>https://czmplus.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -155,16 +146,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/personal/love/index.html</loc>
+    <loc>https://czmplus.github.io/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -182,7 +164,34 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/site/time/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     

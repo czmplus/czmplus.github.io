@@ -209,16 +209,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/life/movies/index.html</loc>
+    <loc>https://czmplus.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -236,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/personal/about/index.html</loc>
+    <loc>https://czmplus.github.io/box/gallery/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -246,6 +237,33 @@
   
   <url>
     <loc>https://czmplus.github.io/life/music/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -272,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/box/gallery/index.html</loc>
+    <loc>https://czmplus.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -281,16 +299,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/social/link/index.html</loc>
+    <loc>https://czmplus.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -308,16 +317,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/site/time/index.html</loc>
+    <loc>https://czmplus.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -374,7 +374,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/tags/%E4%BD%9C%E4%B8%BA%E6%97%A5%E8%AE%B0%E5%8A%A0%E5%AF%86/</loc>
+    <loc>https://czmplus.github.io/tags/%E6%97%A5%E8%AE%B0%E5%8A%A0%E5%AF%86/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -397,14 +397,14 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/categories/Golang/</loc>
+    <loc>https://czmplus.github.io/categories/Kubernetes/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/categories/Kubernetes/</loc>
+    <loc>https://czmplus.github.io/categories/Golang/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

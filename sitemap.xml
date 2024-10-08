@@ -209,6 +209,15 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -227,43 +236,16 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://czmplus.github.io/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://czmplus.github.io/life/games/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -290,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://czmplus.github.io/site/census/index.html</loc>
+    <loc>https://czmplus.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -308,7 +290,25 @@
   </url>
   
   <url>
+    <loc>https://czmplus.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://czmplus.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -376,13 +376,6 @@
 
   
   <url>
-    <loc>https://czmplus.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://czmplus.github.io/categories/Docker/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,6 +391,13 @@
   
   <url>
     <loc>https://czmplus.github.io/categories/Kubernetes/</loc>
+    <lastmod>2024-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://czmplus.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
